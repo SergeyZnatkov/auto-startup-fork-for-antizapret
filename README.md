@@ -1,5 +1,6 @@
 Auto-startup fork for Antizapret by Flowseal 
 
+BUILD DOES NOT WORK!!!
 
 What does this fork do:
 
