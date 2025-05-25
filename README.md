@@ -1,10 +1,4 @@
-<<<<<<< Updated upstream
-Auto-startup fork for Antizapret by Flowseal 
-
-BUILD DOES NOT WORK!!!
-=======
 Auto-startup fork for Antizapret 
->>>>>>> Stashed changes
 
 What does this fork do:
 
